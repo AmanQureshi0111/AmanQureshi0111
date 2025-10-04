@@ -9,6 +9,10 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanqureshi0111&label=Profile%20views&color=0e75b6&style=flat" alt="amanqureshi0111" /> </p>
+
+---
+
 ### 💫 About Me  
 
 - 🚀 Building products that blend **innovation** and **impact**  
