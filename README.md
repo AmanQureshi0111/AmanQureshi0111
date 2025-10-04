@@ -93,5 +93,11 @@
 ---
 
 <p align="center">
+  <img src="https://github.com/AmanQureshi0111/AmanQureshi0111/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer"/>
 </p>
