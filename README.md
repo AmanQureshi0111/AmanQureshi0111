@@ -81,7 +81,7 @@
 
 ---
 
-![Snake animation](https://github.com/AmanQureshi0111/AmanQureshi0111/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AmanQureshi0111/AmanQureshi0111/output/github-contribution-grid-snake.svg)
 
 ---
 
