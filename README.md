@@ -81,6 +81,10 @@
 
 ---
 
+![snake gif](https://raw.githubusercontent.com/AmanQureshi0111/AmanQureshi0111/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🌐 Connect With Me  
 
 <p align="center">
