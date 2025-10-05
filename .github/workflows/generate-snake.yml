@@ -13,7 +13,7 @@ jobs:
         uses: Platane/snk@v1
         with:
           # Fill these in:
-          user: '<YOUR_USERNAME>'          # your GitHub username
+          user: 'AmanQureshi0111'      
           output: 'github-contribution-grid-snake.svg' 
           branch: 'output'                 # where the action commits the artifact
           # optional: change snake color / size via action inputs if supported
