@@ -47,7 +47,7 @@
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
+<!--
 ### 🧩 Featured Projects  
 
 | 🚀 Project | 🧠 Description | ⚙️ Tech Stack |
@@ -67,7 +67,7 @@
 - 💡 **GeeksforGeeks GfG 160** – *160 Days of Problem Solving*  
 
 ---
-
+--->
 ### 📊 GitHub Stats  
 
 <p align="center">
