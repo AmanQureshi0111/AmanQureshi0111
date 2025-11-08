@@ -19,7 +19,6 @@
 - 💻 Love working on **frontend**, **AI-driven apps**, and **real-world projects**  
 - 🧩 Avid problem solver on **LeetCode**, **GfG**, and **CodeChef**  
 - 🎯 Currently exploring **Next.js**, **Web3**, and **system design**  
-- 🎉 Event organizer & collaborative team player  
 
 ---
 
